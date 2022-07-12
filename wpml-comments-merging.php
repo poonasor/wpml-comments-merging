@@ -1,14 +1,14 @@
 <?php
 /*
 Plugin Name: WPML Merged Comments
-Plugin URI: https://rickypoon.ca/
-Description: WPML: Show Reviews/Comments in All Languages
-Version: 2.0
+Plugin URI: https://github.com/poonasor/wpml-comments-merging/
+Description: This plugin merges comments from all translations of the posts and pages, so that they all are displayed on each other. Comments are internally still attached to the post or page they were made on.
+Version: 3.0
 Author: Ricky Poon
 Author URI: https://rickypoon.ca/
 License: GPL
 
-This is a fixed version of the no longer maintained WPML Comment Merging plugin:
+This is an updated version of the fixed version of the no longer maintained WPML Comment Merging plugin:
 http://wordpress.org/extend/plugins/wpml-comment-merging/
 Thanks to Simon Wheatley for contributing the fix.
 
