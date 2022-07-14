@@ -1,3 +1,10 @@
+=== UPDATE ===
+
+Find the most up to date version here:
+https://wordpress.org/plugins/merged-comments-wpml/
+
+=== UPDATE END ===
+
 === WPML comments merging ===
 Contributors: jeangalea, Simon Wheatley, Fabian Lange
 Plugin URI: https://github.com/poonasor/wpml-comments-merging/
